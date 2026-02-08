@@ -1,10 +1,14 @@
-# Bienvenue chez Magix CMS
+# Bienvenue chez Magix CMS ✨
 
-Magix CMS est une solution de gestion de contenu haute performance, modulaire, sécurisée et dédiée au SEO.
+Magix CMS est une solution de gestion de contenu haute performance, modulaire, sécurisée et **optimisée pour le SEO**.
 
-### Nos Projets Open Source
-* **Magix CMS** : Le CMS.
-* **Plugins & Addons** : 
-* slideshow, Stripe, Gemini AI, et bien d'autres.
+### 🛠 Nos Projets Phares
+* **[Magix CMS 3](https://github.com/magix-cms/magixcms-3)** : Le cœur du système.
+* **[Gemini AI](https://github.com/magix-cms/geminiai)** : L'intelligence artificielle au service de vos contenus.
 
-[🌐 Visiter notre site officiel](https://www.magix-cms.com)
+### 📦 Écosystème
+Nous maintenons plus de **40 plugins** (Stripe, Slideshow, Formulaires, etc.) pour étendre les capacités de votre site.
+👉 **[Explorer tous nos plugins](https://github.com/orgs/magix-cms/repositories)**
+
+---
+[🌐 Site Officiel](https://www.magix-cms.com) | [💬 Support](https://www.magix-cms.com/contact)

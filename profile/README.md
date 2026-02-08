@@ -11,4 +11,4 @@ Nous maintenons plus de **40 plugins** (Stripe, Slideshow, Formulaires, etc.) po
 👉 **[Explorer tous nos plugins](https://github.com/orgs/magix-cms/repositories)**
 
 ---
-[🌐 Site Officiel](https://www.magix-cms.com) | [💬 Support](https://www.magix-cms.com/contact)
+[🌐 Site Officiel](https://www.magix-cms.com)

@@ -1,5 +1,7 @@
 # Bienvenue chez Magix CMS ✨
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K11XR74V)
+
 Magix CMS est une solution de gestion de contenu haute performance, modulaire, sécurisée et **optimisée pour le SEO**.
 
 ### 🛠 Nos Projets Phares
